@@ -111,7 +111,7 @@ By combining effective data modeling, KPI design, and intuitive visualizations, 
 - Healthcare Analytics
 - Interactive Dashboard Design
 - Data Visualization
-- Business Intelligence Reporting
+- Business Intelligence Reporting 
 
 ## Let's Connect
 
