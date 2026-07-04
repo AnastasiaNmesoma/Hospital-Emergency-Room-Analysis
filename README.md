@@ -31,7 +31,7 @@ The analysis focuses on:
 > All data preparation, modeling, DAX measures, and dashboard development were completed in Power BI.
 
 > ## Important Note
-> For detailed project documentation, data preparation steps, dashboard design decisions, and business insights, please refer to the [Project Documentation](Hospital%20Emergency%20Room%20Anaysis)
+> For detailed project documentation, data preparation steps, dashboard design decisions, and business insights, please refer to the [Project Documentation](Hospital%20Emergency%20Room%20Anaysis.md)
 
 ## Business Objectives
 
